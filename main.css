@@ -51,6 +51,10 @@ header {
     z-index: 100000;
 
 }
+.vid {
+    width: 00px;
+    height: 100px;
+}
 .pic {
     display: block;
     margin-left: auto;
